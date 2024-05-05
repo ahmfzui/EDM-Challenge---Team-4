@@ -2,10 +2,7 @@
 
 # 🔥 EDM Challenge - Team 4 🔥
 ---
-
-## Anggota Team
-
-| Nama                                       | Kode |
+| Nama Lengkap                                       | Kode |
 |--------------------------------------------|---------|
 | **Ahmad Fauzi**                            | ZIZI    |
 | **Alvaro Cleosanda**                       | ALVR    |
