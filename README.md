@@ -4,9 +4,9 @@
 ---
 
 ## Anggota Team
-**Ahmad Fauzi** (ZIZI)
-**Alvaro Cleosanda** (ALVR)
-**Daffa Maheswara** (MHES)
+**Ahmad Fauzi** (ZIZI)<br>
+**Alvaro Cleosanda** (ALVR)<br>
+**Daffa Maheswara** (MHES)<br>
 **Vilson** (VLSN)
 
 </div>
