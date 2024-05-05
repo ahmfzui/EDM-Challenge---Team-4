@@ -6,7 +6,7 @@
 ## Anggota Team
 **Ahmad Fauzi** (ZIZI)<br>
 **Alvaro Cleosanda** (ALVR)<br>
-**Daffa Maheswara** (MHES)<br>
+**Daffa Maheswara Aryasatya Hariyanto** (MHES)<br>
 **Vilson** (VLSN)
 
 </div>
