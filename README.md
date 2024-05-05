@@ -3,11 +3,10 @@
 # 🔥 EDM-Challenge-Team-4 🔥
 ---
 
-## Team Member (Kelompok 01)
-
-- **Vilson** (VLSN)
-- **Alvaro** (ALVR)
-- **Fauzi** (ZIZI)
-- **Daffa** (MHES)
+## Anggota Team
+**Ahmad Fauzi** (ZIZI)
+**Alvaro Cleosanda** (ALVR)
+**Daffa Maheswara** (MHES)
+**Vilson** (VLSN)
 
 </div>
